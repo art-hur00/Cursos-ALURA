@@ -1,0 +1,6 @@
+Anotacoes;
+#As anotacoes comecam a partir do modulo 2.
+
+->Em python else if e escrito como elif.
+->Para definir uma funcao e usado o def.
+->Function match para python e igual a funcao switch para java
